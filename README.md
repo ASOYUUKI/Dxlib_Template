@@ -1,0 +1,2 @@
+# Dxlib_Template
+Dxlibのテンプレートが入ったzipファイル
